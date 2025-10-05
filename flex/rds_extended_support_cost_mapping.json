@@ -71,6 +71,11 @@
     },
     {
         "region": "ca-central-1",
+        "region_name": "Canada West (Calgary)",
+        "year1_cost_usd": 0.108
+    },
+    {
+        "region": "ca-west-1",
         "region_name": "Canada (Central)",
         "year1_cost_usd": 0.12
     },
